@@ -24,7 +24,7 @@ git clone [https://github.com/yourusername/nginx-loadbalancer.git](https://githu
 cd nginx-loadbalancer
 
 ### 2. Run the Stack
-docker compose up --build
+docker compose up
 
 ### 3. Test It
 Open your browser and go to:
